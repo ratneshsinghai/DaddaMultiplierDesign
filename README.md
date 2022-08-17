@@ -1,1 +1,2 @@
 # DaddaMultiplierDesign
+A Dadda multiplier of 16*16 is designed in Verilog HDL . Brent-Kung adder is used for final addition. Design files along with the test bench are provided. Random test stimulus are provided as input. A golden reference output is generated and the actual result are compared with the golden result for the verification of the design. A flag=0 indicateing the correctness of the design.
